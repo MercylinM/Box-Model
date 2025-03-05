@@ -19,11 +19,13 @@ body{
     text-align: center;
     align-items: center;
     border-right: solid 1px rgba(160, 80, 176, 0.5);
+    width: 50%;
 }
 h1{
     color: #A050B0;
     font-weight: 900;
     font-size: 50px;
+    margin: 0;
 }
 
 h2{
@@ -155,7 +157,7 @@ a{
 }
 
 .image-container img{
-   height: 80%;
+   height: 90%;
    width: 100%;
    object-fit: cover;
 }
